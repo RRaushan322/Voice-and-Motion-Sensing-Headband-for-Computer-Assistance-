@@ -1,4 +1,4 @@
-# Voice-and-Motion-Sensing-Headband-for-Computer-Assistance-
+
 # Voice and Motion Sensing Headband for Computer Assistance
 
 This project is an innovative, headband-based solution designed to assist individuals with physical disabilities, particularly those who have lost the use of their arms due to accidents. By leveraging motion sensing and voice commands, this system offers hands-free control of essential computer functionalities, including mouse control and keyboard shortcuts.
